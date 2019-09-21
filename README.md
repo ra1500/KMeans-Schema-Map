@@ -11,5 +11,3 @@ This is a very basic schema map which uses KMeans to identify rare colors in the
 2) The images are too small with dimesions of (32, 32, 3) and therefore the drawing of lines overwhelms the images.
 
 To Run: Copy/Paste this code to the beginning of Keras CNN found on another repository of my github account (over-writing the initial data loading). Performance declines from 69% accuracy to 64% accuracy, unfortunately, and expectedly.
-
-Proof of concept! Took me a couple of long days to code this, which is likely waaaaay too long, but it was enjoyable. I hope to start making much more advanced schema maps. 
